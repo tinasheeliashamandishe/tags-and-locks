@@ -1,4 +1,4 @@
-<h1>Entra ID: Creating a user</h1>
+<h1>Resource tags and locks</h1>
 
 <h2>Description</h2>
 This lab will configure resource tags and locks.<br /><br />
